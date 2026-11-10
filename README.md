@@ -1,6 +1,6 @@
 # Hi, I'm Atai Muratbekov
 
-I'm focused on **Data Science, Machine Learning, and Computer Vision**, with hands-on experience building end-to-end ML projects in Python.
+I'm focused on Data Science, Machine Learning, and Computer Vision, with hands-on project experience in Python.
 
 Currently expanding my analytics skills with **SQL and Power BI**.
 
