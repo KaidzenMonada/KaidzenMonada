@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Atai Muratbekov
 
-<!--
-**KaidzenMonada/KaidzenMonada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm focused on **Data Science, Machine Learning, and Computer Vision**, with hands-on experience building end-to-end ML projects in Python.
 
-Here are some ideas to get you started:
+Currently expanding my analytics skills with **SQL and Power BI**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Project
+
+### [Smart Factory Safety Inspector](https://github.com/KaidzenMonada/smart-factory-safety-inspector)
+
+A computer vision system for worker-level PPE detection and safety compliance using YOLO.
+
+- **5 detection classes:** person, helmet, vest, gloves, goggles
+- **3,865 images** and **23,686 annotations**
+- **YOLO26s:** 0.8371 mAP50 / 0.5833 mAP50-95
+- **94.38%** end-to-end compliance accuracy
+- **0 false COMPLIANT** decisions in the application-level test
+
+**Tech:** Python · PyTorch · Ultralytics YOLO · OpenCV · Pandas
+
+## Currently Learning
+
+- SQL
+- Power BI
+- Data Analytics
+
+## Focus
+
+Data Science · Computer Vision · Machine Learning · Data Analytics
